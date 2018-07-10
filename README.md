@@ -12,6 +12,10 @@ From Basic NLP to KNLP using Deep Learning
 ## Study Planning
 - 매주 O요일 O시 미팅
 - 링크 공유 -> 분류 -> 커리큘럼 설계 -> 스터디 및 정리 -> 이해 -> 구현
+- Git's Projects로 To Do List 관리(NLP survey -> Curriculum Design -> Example Projects)
+  - NLP survey로 키워드와 공부할 자료를 정리
+  - Curriculum Design으로 공부 순서와 자료 선별
+  - Example proejects에서 공부한 것을 이용해 만들 수 있는 예제를 계획
 
 ## Curriculum
 
