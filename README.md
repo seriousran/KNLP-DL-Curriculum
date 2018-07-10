@@ -13,5 +13,6 @@ From Basic NLP to KNLP using Deep Learning
 - KNLP using Deep Learning
 
 ## 대표적인 링크
-- keon/awesome-nlp: A curated list of resources dedicated to Natural Language Processing (NLP)
- - https://github.com/keon/awesome-nlp
+- keon/awesome-nlp
+  - A curated list of resources dedicated to Natural Language Processing (NLP)
+  - https://github.com/keon/awesome-nlp
