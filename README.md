@@ -4,7 +4,7 @@ From Basic NLP to KNLP using Deep Learning
 
 ## Main Subjects
 - [NLP](mds/NLP.md)
-- KNLP
+- [KNLP](mds/KNLP.md)
 - NLP using Deep Learning
 - KNLP using Deep Learning
 
