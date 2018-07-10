@@ -7,6 +7,7 @@
 - [Mecab](https://bitbucket.org/eunjeon/mecab-ko-dic) - C++ library for Korean NLP
 - [KoalaNLP](https://nearbydelta.github.io/KoalaNLP/) - KNLP library in Scala; KAIST's Hannanum, SNU's KKMA, Junsoo Shin's KOMORAN, Twitter, Enjeon's SEunjeon, Arirang, RHINO
 - [KoNLP](https://github.com/haven-jeon/KoNLP) - KNLP in R package; POS Tagger and Morphological Analyzer; Interfacing with Hannanum analyzer
+- [Koshort](http://koshort.readthedocs.io/ko/latest/) - Python package for streaming and processing Korean internet trends.
 
 ### Datasets
 - [NIA](https://github.com/haven-jeon/NIADic) Dictionary - The Korean dictionary for morphological analysis, NIADic(National Information Society Agency Dictionary)
