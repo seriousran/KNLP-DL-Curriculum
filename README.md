@@ -10,7 +10,6 @@ From Basic NLP to KNLP using Deep Learning
 - KNLP using Deep Learning
 
 ## Study Planning
-- 매주 O요일 O시 미팅
 - 링크 공유 -> 분류 -> 커리큘럼 설계 -> 스터디 및 정리 -> 이해 -> 구현
 - Git's [Projects](https://github.com/seriousmac/KNLP-DL-Curriculum/projects)로 To Do List 관리(NLP survey -> Curriculum Design -> Example Projects)
   - [NLP survey](https://github.com/seriousmac/KNLP-DL-Curriculum/projects/1)에 키워드와 공부할 자료를 정리
@@ -19,10 +18,27 @@ From Basic NLP to KNLP using Deep Learning
 
 ## Curriculum
 
+## On-going
+- CR
+  - NLP survey 정리
+    - Basic NLP, KNLP, 주요 개념 및 키워드 정리
+    - Deep Learning 주요 개념 및 키워드 정리
+    - 예제 프로젝트 주제 설정
+    - 커리큘럼 설계
+  - Temporal ConvNet을 이용한 특정 Context를 가진 무장 분류
+    - 한글을 알파벳으로 변환, Quantization
+    - 데이터셋 입력 테스트(Keras를 위한 상태로, 원하는 글자수, context 포함 여부 검사 등)
+    - Temporal ConvNet 설계 및 구현
+    - Training
+    - Evaluation
+
 ## Week 1, Jul. 9-13, 2018
-- CR: NLP 키워드 정리 및 분류, one-hot encoding/word2vec, RNN을 이용한 개체 판단
+- CR: NLP 키워드 정리 및 분류, one-hot encoding/word2vec, CNN을 이용한 Text Understanding, RNN을 이용한 개체 판단
 
 ## 대표적인 링크
+- ratsgo
+  - 딥러닝 기반 자연어처리 기법의 최근 연구 동향
+  - https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/
 - keon/awesome-nlp
   - https://github.com/keon/awesome-nlp
   - A curated list of resources dedicated to Natural Language Processing (NLP)
