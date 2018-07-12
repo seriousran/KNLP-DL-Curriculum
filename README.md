@@ -33,6 +33,7 @@ From Basic NLP to KNLP using Deep Learning
       - [Paper](https://arxiv.org/abs/1509.01626)
       - [Ex1](https://offbit.github.io/how-to-read/)
       - [Ex2](https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/)
+      - [Ex3](http://www.priorlabs.com/2017/10/17/character-level-text-classification-cnn/)
     - 한글을 알파벳으로 변환, Quantization
     - 데이터셋 입력 테스트(Keras를 위한 상태로, 원하는 글자수, context 포함 여부 검사 등)
     - Temporal ConvNet 설계 및 구현
