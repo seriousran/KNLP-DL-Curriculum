@@ -1,4 +1,4 @@
-# KNLP-DL-Curriculum
+a# KNLP-DL-Curriculum
 From Basic NLP to KNLP using Deep Learning
 자연어처리의 기초부터 딥러닝을 이용한 한글자연어처리까지 스터디(공부 및 연구) 자료 정리 및 커리큘럼 설계
 
@@ -25,7 +25,15 @@ From Basic NLP to KNLP using Deep Learning
     - Deep Learning 주요 개념 및 키워드 정리
     - 예제 프로젝트 주제 설정
     - 커리큘럼 설계
+  - Keras w/ tensorflow
+    - conda, tensorflow, keras, jupyter notebook setting
+    - Execute the CNN MINST example for test
   - Temporal ConvNet을 이용한 특정 Context를 가진 무장 분류
+    - Character level deep learning 예제 실행
+      - [Paper](https://arxiv.org/abs/1509.01626)
+      - [Ex1](https://offbit.github.io/how-to-read/)
+      - [Ex2](https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/)
+      - [Ex3](http://www.priorlabs.com/2017/10/17/character-level-text-classification-cnn/)
     - 한글을 알파벳으로 변환, Quantization
     - 데이터셋 입력 테스트(Keras를 위한 상태로, 원하는 글자수, context 포함 여부 검사 등)
     - Temporal ConvNet 설계 및 구현
