@@ -1,7 +1,7 @@
-a# KNLP-DL-Curriculum
-From Basic NLP to KNLP using Deep Learning
-자연어처리의 기초부터 딥러닝을 이용한 한글자연어처리까지 스터디(공부 및 연구) 자료 정리 및 커리큘럼 설계
-
+# KNLP-DL-Curriculum
+### From Basic NLP to KNLP using Deep Learning
+### 자연어처리의 기초부터 딥러닝을 이용한 한글자연어처리까지 스터디(공부 및 연구) 자료 정리 및 커리큘럼 설계
+---
 ## Main Subjects
 - [Intro](mds/INTRO.md)
 - [NLP](mds/NLP.md)
