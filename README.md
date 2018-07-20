@@ -9,6 +9,9 @@
 - NLP using Deep Learning
 - KNLP using Deep Learning
 
+## Hot Subjects
+- QA
+  
 ## Study Planning
 - 링크 공유 -> 분류 -> 커리큘럼 설계 -> 스터디 및 정리 -> 이해 -> 구현
 - Git's [Projects](https://github.com/seriousmac/KNLP-DL-Curriculum/projects)로 To Do List 관리(NLP survey -> Curriculum Design -> Example Projects)
