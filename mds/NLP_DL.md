@@ -9,6 +9,26 @@
   - Siwei Lai, Liheng Xu, Kang Liu and Jun Zhao, "Character-level Convolutional Networks for Text Classification," NIPS, 2015.
   - Yoon Kim, Yacine Jernite, David Sontag and Alexander M. Rush, "Convolutional Neural Networks for Sentence Classification, AAAI, 2016.
     - [released code by writer](https://github.com/yoonkim/lstm-char-cnn) | Lua + Torch
+      - install Lua
+        ```bash
+        wget https://luarocks.org/releases/luarocks-3.0.0.tar.gz
+        tar zxpf luarocks-3.0.0.tar.gz
+        cd luarocks-3.0.0
+        ./configure; sudo make bootstrap
+        sudo luarocks install luasocket
+        lua
+        ```
+      - install torch and dependencies
+        ```bash
+          luarocks install nngraph
+          luarocks install luautf8
+          luarocks install cutorch
+          luarocks install cunn
+          git clone https://github.com/soumith/cudnn.torch.git
+          cd cudnn.torch
+          luarocks make cudnn-scm-1.rockspec
+        ```
+
     - Abstract
       - CNN + LSTM RNN-LM
       - having fewer parameters, same as state-of-the-art performance
