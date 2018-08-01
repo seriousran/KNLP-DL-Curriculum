@@ -11,13 +11,7 @@
     - [released code by writer](https://github.com/yoonkim/lstm-char-cnn) | Lua + Torch
       - install Lua
         ```bash
-        wget https://luarocks.org/releases/luarocks-3.0.0.tar.gz
-        tar zxpf luarocks-3.0.0.tar.gz
-        cd luarocks-3.0.0
-        ./configure; sudo make bootstrap
-        sudo luarocks install luasocket
-        lua
-        ```
+        conda install -c alexbw lua-torch 
       - install torch and dependencies
         ```bash
           luarocks install nngraph
