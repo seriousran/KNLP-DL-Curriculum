@@ -24,27 +24,11 @@
 ## On-going
 - CR
   - NLP survey 정리
-    - Basic NLP, KNLP, 주요 개념 및 키워드 정리
-    - Deep Learning 주요 개념 및 키워드 정리
-    - 예제 프로젝트 주제 설정
-    - 커리큘럼 설계
   - Keras w/ tensorflow
-    - conda, tensorflow, keras, jupyter notebook setting
-    - Execute the CNN MINST example for test
-  - Temporal ConvNet을 이용한 특정 Context를 가진 무장 분류
-    - Character level deep learning 예제 실행
-      - [Paper](https://arxiv.org/abs/1509.01626)
-      - [Ex1](https://offbit.github.io/how-to-read/)
-      - [Ex2](https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/)
-      - [Ex3](http://www.priorlabs.com/2017/10/17/character-level-text-classification-cnn/)
-    - 한글을 알파벳으로 변환, Quantization
-    - 데이터셋 입력 테스트(Keras를 위한 상태로, 원하는 글자수, context 포함 여부 검사 등)
-    - Temporal ConvNet 설계 및 구현
-    - Training
-    - Evaluation
-
-## Week 1, Jul. 9-13, 2018
-- CR: NLP 키워드 정리 및 분류, one-hot encoding/word2vec, CNN을 이용한 Text Understanding, RNN을 이용한 개체 판단
+  - Temporal ConvNet을 이용한 특정 Context를 가진 문장 분류
+    - Character-level T-CNN
+      - 데이터셋 변환 (Keras를 위한 상태로, 원하는 글자수, context 포함 여부 검사 등)
+      - 한글을 알파벳으로 변환, Quantization, One-hot vector
 
 ## 대표적인 링크
 - ratsgo
